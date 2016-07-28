@@ -1,3 +1,8 @@
+My solutions are all in lesson 2 folder
+
+-------
+
+
 React Router Tutorial
 =====================
 
